@@ -1,0 +1,12 @@
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\bin\Debug\net5.0\GenericSample.Core.deps.json
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\bin\Debug\net5.0\GenericSample.Core.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\bin\Debug\net5.0\ref\GenericSample.Core.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\bin\Debug\net5.0\GenericSample.Core.pdb
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\obj\Debug\net5.0\GenericSample.Core.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\obj\Debug\net5.0\GenericSample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\obj\Debug\net5.0\GenericSample.Core.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\obj\Debug\net5.0\GenericSample.Core.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\obj\Debug\net5.0\GenericSample.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\obj\Debug\net5.0\GenericSample.Core.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\obj\Debug\net5.0\ref\GenericSample.Core.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Core\obj\Debug\net5.0\GenericSample.Core.pdb

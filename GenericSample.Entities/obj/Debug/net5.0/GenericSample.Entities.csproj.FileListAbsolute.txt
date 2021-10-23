@@ -1,0 +1,15 @@
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\bin\Debug\net5.0\GenericSample.Entities.deps.json
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\bin\Debug\net5.0\GenericSample.Entities.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\bin\Debug\net5.0\ref\GenericSample.Entities.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\bin\Debug\net5.0\GenericSample.Entities.pdb
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\GenericSample.Entities.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\GenericSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\GenericSample.Entities.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\GenericSample.Entities.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\GenericSample.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\GenericSample.Entities.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\ref\GenericSample.Entities.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\GenericSample.Entities.pdb
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\bin\Debug\net5.0\GenericSample.Core.dll
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\bin\Debug\net5.0\GenericSample.Core.pdb
+C:\Users\kurtulusocL\Desktop\GenericSample\GenericSample.Entities\obj\Debug\net5.0\GenericSample.Entities.csproj.CopyComplete
